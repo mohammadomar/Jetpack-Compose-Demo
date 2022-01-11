@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1641520580990.xml" value="0.15751689189189189" />
+        <entry key="../../../../layout/compose-model-1641666863859.xml" value="0.25555555555555554" />
+        <entry key="../../../../layout/compose-model-1641667207375.xml" value="0.25" />
+        <entry key="../../.gradle/caches/transforms-3/52e177f8e05e59342503b705177f1f6c/transformed/core-1.6.0/res/drawable-v21/notification_action_background.xml" value="0.18385416666666668" />
+        <entry key="app/src/main/res/drawable/ic_baseline_emoji_emotions_24.xml" value="0.25555555555555554" />
+        <entry key="app/src/main/res/drawable/ic_bell.xml" value="0.18385416666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
